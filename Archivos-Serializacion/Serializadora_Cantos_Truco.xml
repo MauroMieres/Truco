@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CantosDelTruco xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Cantos>
+    <CantosTruco>
+      <CantoJugador>Truco!</CantoJugador>
+      <ValorQuiero>2</ValorQuiero>
+      <ValorNoQuiero>1</ValorNoQuiero>
+    </CantosTruco>
+    <CantosTruco>
+      <CantoJugador>Retruco!</CantoJugador>
+      <ValorQuiero>3</ValorQuiero>
+      <ValorNoQuiero>2</ValorNoQuiero>
+    </CantosTruco>
+    <CantosTruco>
+      <CantoJugador>Vale 4!</CantoJugador>
+      <ValorQuiero>4</ValorQuiero>
+      <ValorNoQuiero>3</ValorNoQuiero>
+    </CantosTruco>
+  </Cantos>
+</CantosDelTruco>

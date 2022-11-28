@@ -1,0 +1,14 @@
+Repartiendo Cartas ...
+Jennifer juega el  1 de Espada
+Nahuel: Envido!
+Jennifer: Envido!
+Nahuel: Real Envido!
+Jennifer: Falta Envido!
+Nahuel: quiero, 20
+Jennifer: 28 son mejores!
+Nahuel juega el  7 de Oro
+Jennifer juega el  1 de Basto
+Nahuel juega el  11 de Basto
+Jennifer se lleva los puntos del truco
+Jennifer: 16 | Nahuel: 0
+Jennifer gano la partida!

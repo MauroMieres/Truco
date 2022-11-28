@@ -1,0 +1,56 @@
+Repartiendo Cartas ...
+Gladys: Envido!
+Ulises: quiero, 20
+Gladys: 28 son mejores!
+Gladys juega el  7 de Espada
+Ulises juega el  7 de Oro
+Gladys juega el  1 de Basto
+Ulises juega el  12 de Basto
+Gladys se lleva los puntos del truco
+Gladys: 3 | Ulises: 0
+Repartiendo Cartas ...
+Gladys juega el  10 de Basto
+Ulises: Envido!
+Gladys: no quiero.
+Ulises juega el  4 de Basto
+Gladys juega el  7 de Basto
+Ulises juega el  5 de Basto
+Gladys se lleva los puntos del truco
+Gladys: 4 | Ulises: 1
+Repartiendo Cartas ...
+Gladys: Envido!
+Ulises: Envido!
+Gladys: quiero, 20
+Ulises: 33 son mejores!
+Gladys juega el  2 de Basto
+Ulises juega el  7 de Copa
+Gladys juega el  12 de Copa
+Ulises juega el  10 de Copa
+Gladys se lleva los puntos del truco
+Gladys: 5 | Ulises: 5
+Repartiendo Cartas ...
+Gladys: Envido!
+Ulises: quiero, 23
+Gladys: 29 son mejores!
+Gladys juega el  5 de Copa
+Ulises juega el  2 de Copa
+Ulises juega el  12 de Espada
+Gladys juega el  4 de Copa
+Ulises se lleva los puntos del truco
+Gladys: 7 | Ulises: 6
+Repartiendo Cartas ...
+Gladys: Envido!
+Ulises: Envido!
+Gladys: quiero, 26
+Ulises: 29 son mejores!
+Gladys juega el  6 de Espada
+Ulises juega el  4 de Espada
+Gladys juega el  10 de Espada
+Ulises juega el  3 de Espada
+Ulises: Truco!
+Gladys: quiero
+Ulises juega el  5 de Espada
+Gladys juega el  11 de Espada
+Gladys se lleva los puntos del truco
+Gladys: 9 | Ulises: 10
+Ulises gano la partida!

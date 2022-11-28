@@ -1,0 +1,47 @@
+Repartiendo Cartas ...
+Sofia juega el  1 de Espada
+Dibu juega el  7 de Oro
+Sofia juega el  7 de Espada
+Dibu juega el  12 de Basto
+Sofia se lleva los puntos del truco
+Sofia: 1 | Dibu: 0
+Repartiendo Cartas ...
+Sofia: Envido!
+Dibu: quiero, 29
+Sofia: 33 son mejores!
+Sofia juega el  6 de Basto
+Dibu juega el  5 de Basto
+Sofia juega el  7 de Basto
+Dibu juega el  4 de Basto
+Sofia se lleva los puntos del truco
+Sofia: 4 | Dibu: 0
+Repartiendo Cartas ...
+Sofia juega el  2 de Basto
+Dibu juega el  10 de Copa
+Sofia juega el  12 de Copa
+Dibu juega el  6 de Copa
+Sofia se lleva los puntos del truco
+Sofia: 5 | Dibu: 0
+Repartiendo Cartas ...
+Sofia juega el  4 de Copa
+Dibu: Envido!
+Sofia: no quiero.
+Dibu juega el  1 de Copa
+Dibu juega el  2 de Copa
+Sofia juega el  5 de Copa
+Dibu se lleva los puntos del truco
+Sofia: 5 | Dibu: 2
+Repartiendo Cartas ...
+Sofia juega el  10 de Espada
+Dibu juega el  5 de Espada
+Sofia juega el  11 de Espada
+Dibu juega el  3 de Espada
+Dibu: Truco!
+Sofia: Retruco!
+Dibu: Vale 4!
+Sofia: quiero
+Dibu juega el  4 de Espada
+Sofia juega el  6 de Espada
+Sofia se lleva los puntos del truco
+Sofia: 6 | Dibu: 5
+Sofia gano la partida!

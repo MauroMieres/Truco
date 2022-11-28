@@ -1,0 +1,12 @@
+C:\Users\knofl\source\repos\MieresMauroSegundoParcial\EntidadesDelTruco\obj\Debug\net5.0\EntidadesDelTruco.csproj.AssemblyReference.cache
+C:\Users\knofl\source\repos\MieresMauroSegundoParcial\EntidadesDelTruco\obj\Debug\net5.0\EntidadesDelTruco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\knofl\source\repos\MieresMauroSegundoParcial\EntidadesDelTruco\obj\Debug\net5.0\EntidadesDelTruco.AssemblyInfoInputs.cache
+C:\Users\knofl\source\repos\MieresMauroSegundoParcial\EntidadesDelTruco\obj\Debug\net5.0\EntidadesDelTruco.AssemblyInfo.cs
+C:\Users\knofl\source\repos\MieresMauroSegundoParcial\EntidadesDelTruco\obj\Debug\net5.0\EntidadesDelTruco.csproj.CoreCompileInputs.cache
+C:\Users\knofl\source\repos\MieresMauroSegundoParcial\EntidadesDelTruco\bin\Debug\net5.0\EntidadesDelTruco.deps.json
+C:\Users\knofl\source\repos\MieresMauroSegundoParcial\EntidadesDelTruco\bin\Debug\net5.0\EntidadesDelTruco.dll
+C:\Users\knofl\source\repos\MieresMauroSegundoParcial\EntidadesDelTruco\bin\Debug\net5.0\EntidadesDelTruco.pdb
+C:\Users\knofl\source\repos\MieresMauroSegundoParcial\EntidadesDelTruco\obj\Debug\net5.0\EntidadesDelTruco.dll
+C:\Users\knofl\source\repos\MieresMauroSegundoParcial\EntidadesDelTruco\obj\Debug\net5.0\refint\EntidadesDelTruco.dll
+C:\Users\knofl\source\repos\MieresMauroSegundoParcial\EntidadesDelTruco\obj\Debug\net5.0\EntidadesDelTruco.pdb
+C:\Users\knofl\source\repos\MieresMauroSegundoParcial\EntidadesDelTruco\obj\Debug\net5.0\ref\EntidadesDelTruco.dll

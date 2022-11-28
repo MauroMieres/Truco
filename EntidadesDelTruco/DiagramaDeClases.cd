@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EntidadesDelTruco.Carta">
+    <Position X="6.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAIAAQAAEAEAAAAAAAQAAAAEAAAEAAAABAAA=</HashCode>
+      <FileName>Carta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EntidadesDelTruco.CantosTruco">
+    <Position X="8.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAggAAAAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAIIA=</HashCode>
+      <FileName>CantosTruco.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EntidadesDelTruco.CantoEnvido">
+    <Position X="10.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAggAAAAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAIIA=</HashCode>
+      <FileName>CantosEnvido.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EntidadesDelTruco.CantosDelTruco" Collapsed="true">
+    <Position X="8.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAACAAA=</HashCode>
+      <FileName>CantosDelTruco.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EntidadesDelTruco.CantosDelEnvido" Collapsed="true">
+    <Position X="10.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAACAAA=</HashCode>
+      <FileName>CantosDelEnvido.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EntidadesDelTruco.Jugador">
+    <Position X="10.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CABCAAAQEBAAEACQAAAAgwAAAAEAAAAAEAQCABAAAwA=</HashCode>
+      <FileName>Jugador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EntidadesDelTruco.JugadoresDAO">
+    <Position X="1" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAgAAABBAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>JugadoresDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EntidadesDelTruco.ManejadorArchivos&lt;T&gt;">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ManejadorArchivos.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EntidadesDelTruco.MazoTruco">
+    <Position X="8.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAABIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MazoTruco.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EntidadesDelTruco.Partida">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAEQCAAAACBJAgQACQAAWTEAAIAASCCIAAIiACAg=</HashCode>
+      <FileName>Partida.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EntidadesDelTruco.Sala">
+    <Position X="4.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAgCAACEAAAIBABAAAAAAAAAIAIAgABIAIA=</HashCode>
+      <FileName>Sala.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EntidadesDelTruco.Serializadora&lt;T&gt;">
+    <Position X="1" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAACBAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Serializadora.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EntidadesDelTruco.Sistema">
+    <Position X="5.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAABAAAAAQAAAAAAAAAAIAAAAAAAAACAAAA=</HashCode>
+      <FileName>Sistema.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="EntidadesDelTruco.IGuardar&lt;T&gt;">
+    <Position X="2" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IGuardar.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="EntidadesDelTruco.EPalo">
+    <Position X="6.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAABAAgAAAAAAAAAAg=</HashCode>
+      <FileName>Carta.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

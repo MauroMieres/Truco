@@ -1,0 +1,48 @@
+Repartiendo Cartas ...
+Aylen juega el  1 de Basto
+Marcos: Envido!
+Aylen: Envido!
+Marcos: Real Envido!
+Aylen: Falta Envido!
+Marcos: no quiero.
+Marcos juega el  12 de Basto
+Aylen juega el  1 de Espada
+Marcos juega el  11 de Basto
+Aylen se lleva los puntos del truco
+Aylen: 8 | Marcos: 0
+Repartiendo Cartas ...
+Aylen juega el  7 de Basto
+Marcos juega el  3 de Basto
+Marcos juega el  4 de Basto
+Aylen juega el  10 de Basto
+Aylen juega el  6 de Basto
+Marcos: Truco!
+Aylen: no quiero.
+Marcos juega el  5 de Basto
+Aylen se lleva los puntos del truco
+Aylen: 9 | Marcos: 1
+Repartiendo Cartas ...
+Aylen juega el  11 de Copa
+Marcos: Envido!
+Aylen: no quiero.
+Marcos juega el  10 de Copa
+Aylen juega el  2 de Basto
+Marcos juega el  7 de Copa
+Aylen se lleva los puntos del truco
+Aylen: 10 | Marcos: 2
+Repartiendo Cartas ...
+Aylen juega el  3 de Copa
+Marcos: Envido!
+Aylen: Envido!
+Marcos: quiero, 23
+Aylen: 29 son mejores!
+Marcos juega el  2 de Copa
+Aylen juega el  5 de Copa
+Marcos juega el  1 de Copa
+Marcos: Truco!
+Aylen: quiero
+Marcos juega el  12 de Espada
+Aylen juega el  4 de Copa
+Marcos se lleva los puntos del truco
+Aylen: 14 | Marcos: 4
+Aylen gano la partida!

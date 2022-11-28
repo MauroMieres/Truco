@@ -1,0 +1,25 @@
+Repartiendo Cartas ...
+Ulises juega el  7 de Espada
+Mauro juega el  7 de Oro
+Ulises juega el  1 de Basto
+Mauro juega el  12 de Basto
+Ulises se lleva los puntos del truco
+Ulises: 1 | Mauro: 0
+Repartiendo Cartas ...
+Ulises juega el  10 de Basto
+Mauro: Envido!
+Ulises: Envido!
+Mauro: Real Envido!
+Ulises: Falta Envido!
+Mauro: quiero, 29
+Ulises: 33 son mejores!
+Mauro juega el  3 de Basto
+Mauro juega el  5 de Basto
+Ulises juega el  7 de Basto
+Ulises juega el  6 de Basto
+Mauro: Truco!
+Ulises: quiero
+Mauro juega el  4 de Basto
+Ulises se lleva los puntos del truco
+Ulises: 17 | Mauro: 0
+Ulises gano la partida!

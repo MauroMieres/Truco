@@ -1,0 +1,58 @@
+Repartiendo Cartas ...
+Micaela juega el  1 de Espada
+Sofia juega el  7 de Oro
+Micaela juega el  7 de Espada
+Sofia juega el  11 de Basto
+Micaela se lleva los puntos del truco
+Micaela: 1 | Sofia: 0
+Repartiendo Cartas ...
+Micaela juega el  7 de Basto
+Sofia: Envido!
+Micaela: no quiero.
+Sofia juega el  4 de Basto
+Micaela juega el  10 de Basto
+Sofia juega el  3 de Basto
+Sofia: Truco!
+Micaela: quiero
+Sofia juega el  5 de Basto
+Micaela juega el  6 de Basto
+Micaela se lleva los puntos del truco
+Micaela: 3 | Sofia: 1
+Repartiendo Cartas ...
+Micaela juega el  2 de Basto
+Sofia: Envido!
+Micaela: quiero, 20
+Sofia: 33 son mejores!
+Sofia juega el  7 de Copa
+Micaela juega el  11 de Copa
+Sofia juega el  10 de Copa
+Micaela se lleva los puntos del truco
+Micaela: 4 | Sofia: 3
+Repartiendo Cartas ...
+Micaela juega el  5 de Copa
+Sofia: Envido!
+Micaela: Envido!
+Sofia: no quiero.
+Sofia juega el  12 de Espada
+Sofia juega el  1 de Copa
+Micaela juega el  3 de Copa
+Micaela juega el  4 de Copa
+Sofia: Truco!
+Micaela: quiero
+Sofia juega el  2 de Copa
+Sofia se lleva los puntos del truco
+Micaela: 6 | Sofia: 5
+Repartiendo Cartas ...
+Micaela juega el  11 de Espada
+Sofia juega el  3 de Espada
+Sofia juega el  4 de Espada
+Micaela juega el  6 de Espada
+Micaela: Truco!
+Sofia: Retruco!
+Micaela: Vale 4!
+Sofia: quiero
+Micaela juega el  10 de Espada
+Sofia juega el  5 de Espada
+Micaela se lleva los puntos del truco
+Micaela: 10 | Sofia: 5
+Micaela gano la partida!

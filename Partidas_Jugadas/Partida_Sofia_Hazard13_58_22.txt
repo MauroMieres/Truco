@@ -1,0 +1,45 @@
+Repartiendo Cartas ...
+Sofia juega el  1 de Basto
+Hazard: Envido!
+Sofia: quiero, 28
+Hazard: son buenas ...
+Hazard juega el  7 de Oro
+Sofia juega el  7 de Espada
+Hazard juega el  11 de Basto
+Sofia se lleva los puntos del truco
+Sofia: 3 | Hazard: 0
+Repartiendo Cartas ...
+Sofia juega el  10 de Basto
+Hazard juega el  5 de Basto
+Sofia juega el  6 de Basto
+Hazard juega el  4 de Basto
+Sofia se lleva los puntos del truco
+Sofia: 4 | Hazard: 0
+Repartiendo Cartas ...
+Sofia juega el  11 de Copa
+Hazard juega el  6 de Copa
+Sofia juega el  2 de Basto
+Hazard juega el  10 de Copa
+Sofia se lleva los puntos del truco
+Sofia: 5 | Hazard: 0
+Repartiendo Cartas ...
+Sofia juega el  4 de Copa
+Hazard juega el  12 de Espada
+Hazard juega el  2 de Copa
+Sofia juega el  5 de Copa
+Hazard se lleva los puntos del truco
+Sofia: 5 | Hazard: 1
+Repartiendo Cartas ...
+Sofia juega el  6 de Espada
+Hazard: Envido!
+Sofia: no quiero.
+Hazard juega el  3 de Espada
+Hazard juega el  4 de Espada
+Sofia juega el  10 de Espada
+Sofia: Truco!
+Hazard: quiero
+Sofia juega el  11 de Espada
+Hazard juega el  5 de Espada
+Sofia se lleva los puntos del truco
+Sofia: 7 | Hazard: 2
+Sofia gano la partida!

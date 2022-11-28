@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CantosDelEnvido xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Cantos>
+    <CantoEnvido>
+      <CantoJugador>Envido!</CantoJugador>
+      <ValorQuiero>2</ValorQuiero>
+      <ValorNoQuiero>1</ValorNoQuiero>
+    </CantoEnvido>
+    <CantoEnvido>
+      <CantoJugador>Envido!</CantoJugador>
+      <ValorQuiero>4</ValorQuiero>
+      <ValorNoQuiero>2</ValorNoQuiero>
+    </CantoEnvido>
+    <CantoEnvido>
+      <CantoJugador>Real Envido!</CantoJugador>
+      <ValorQuiero>7</ValorQuiero>
+      <ValorNoQuiero>4</ValorNoQuiero>
+    </CantoEnvido>
+    <CantoEnvido>
+      <CantoJugador>Falta Envido!</CantoJugador>
+      <ValorQuiero>15</ValorQuiero>
+      <ValorNoQuiero>7</ValorNoQuiero>
+    </CantoEnvido>
+  </Cantos>
+</CantosDelEnvido>
